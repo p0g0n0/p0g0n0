@@ -19,9 +19,6 @@
       </a>
   </div>
   <div>
-    <img align="center" src="https://raw.githubusercontent.com/p0g0n0/p0g0n0/master/assets/thm_propic.png"/>
-  </div>
-  <div>
     <h1>👋 Hi, you're welcome!</h1>
   </div>
 </head>
