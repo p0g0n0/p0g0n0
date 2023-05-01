@@ -1,8 +1,8 @@
 <head>
   <div>
       <a href="https://github.com/p0g0n0">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p0g0n0&show_icons=true&hide=stars&rank_icon=github&theme=tokyonight"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0g0n0&show_icons=true&hide=stars&theme=tokyonight"/>
+      <img height="100em" src="https://github-readme-stats.vercel.app/api?username=p0g0n0&show_icons=true&hide=stars&rank_icon=github&theme=tokyonight"/>
+      <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0g0n0&show_icons=true&hide=stars&theme=tokyonight"/>
        </a>
   </div>
   <!---- <div><img height='30em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></div> 
