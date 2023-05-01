@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @p0g0n0
+- 👀 I’m interested in learn more about Information Security
+- 🌱 I’m currently learning pentesting with free online labs and I'll use the repositories here to share my scripts
+- ✌️ Feel free to use them to study too, if you see something that could be more eficient you can share your considerations and lessons too
+- 📫 How to reach me p0g0n0@proton.me
