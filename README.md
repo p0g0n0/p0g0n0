@@ -22,7 +22,9 @@
           <p>
           </p>
           <p>
-          <img src="https://tryhackme-badges.s3.amazonaws.com/Evan.TAS.png" alt="TryHackMe"/>
+             <a href="https://tryhackme.com/p/Evan.TAS">
+                  <img src="https://raw.githubusercontent.com/p0g0n0/p0g0n0/main/assets/thm_propic.png" alt="TryHackMe"/>
+            </a>
           </p>
   </div>
   <div>
