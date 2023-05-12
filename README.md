@@ -18,7 +18,7 @@
           <img align="center" alt="p0g0n0_tryhackme" src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
       </a>
   </div>
-  <div>
+  <!--<div>
           <p>
           </p>
           <p>
@@ -26,7 +26,7 @@
                   <img src="https://raw.githubusercontent.com/p0g0n0/p0g0n0/main/assets/thm_propic.png" alt="TryHackMe"/>
             </a>
           </p>
-  </div>
+  </div>-->
   <div>
     <h1>👋 Hi, you're welcome!</h1>
   </div>
